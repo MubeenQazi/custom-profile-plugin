@@ -1,0 +1,7 @@
+{
+    "require": {
+        "shuchkin/simplecsv": "^0.1.0",
+        "shuchkin/simplexlsx": "^0.8.21",
+        "shuchkin/simplexlsxgen": "^0.9.25"
+    }
+}
